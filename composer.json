@@ -1,0 +1,17 @@
+{
+    "name": "joker/scraping",
+    "autoload": {
+        "psr-4": {
+            "Joker\\Scraping\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Maseeh Niazaai",
+            "email": "maseeh.niazaai@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.8"
+    }
+}
