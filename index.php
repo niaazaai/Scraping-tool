@@ -2,7 +2,7 @@
 require 'vendor/autoload.php'; // Include the Guzzle library
 use GuzzleHttp\Client;
 $client = new Client();
-$url = 'https://satta-king-fast.com';
+$url = 'https://test.site.com';
 
 try {
     // Send an HTTP GET request to the webpage
